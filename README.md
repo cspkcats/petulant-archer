@@ -1,1 +1,1 @@
-# petulant-archer
+# Python exercises and other stuff
